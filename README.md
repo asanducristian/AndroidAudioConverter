@@ -1,5 +1,7 @@
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-AndroidAudioConverter-green.svg?style=true)](https://android-arsenal.com/details/1/4341) [![Release](https://jitpack.io/v/adrielcafe/AndroidAudioConverter.svg)](https://jitpack.io/#adrielcafe/AndroidAudioConverter)
 
+# THIS FORK FIXES RTL SUPPORT WITH THE FFMPEG LIBRARY
+
 # AndroidAudioConverter
 
 > Convert audio files inside your Android app easily. This is a wrapper of [FFmpeg-Android-Java](https://github.com/WritingMinds/ffmpeg-android-java) lib.
