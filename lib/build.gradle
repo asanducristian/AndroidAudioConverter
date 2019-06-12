@@ -21,5 +21,6 @@ android {
 
 dependencies {
     // compile 'com.github.adrielcafe:ffmpeg-android-java:2a627f6ecd@aar'
-   compile 'com.writingminds:FFmpegAndroid:0.3.2'
+    implementation 'com.github.asanducristian:ffmpeg-android-java:v0.3.2'
+
 }
